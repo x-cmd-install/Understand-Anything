@@ -1,37 +1,47 @@
 about:
-  description: Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.
+  description:
+  |
+    Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.
   license: MIT
   homepage: https://understand-anything.com/
-  head: ba450c4
+  head: 787da45
   archived: false
   latestVersion: v2.9.0
-  collectedAt: 2026-09-04T05:01:41Z
+  collectedAt: 2026-09-04T20:02:48Z
 timeline:
   created: 2026-03-15
-  lastCommit: 2026-08-26
+  lastCommit: 2026-09-04
   lastRelease: 2026-07-10
 popularity:
-  star: 81421
-  watcher: 252
-  fork: 6847
+  star: 81483
+  watcher: 251
+  fork: 6851
   release: 8
   contributor: 54
-  pullRequest: 256
+  pullRequest: 382
   issue: 253
 language:
-  TypeScript: 1545211
-  JavaScript: 551987
-  Python: 201165
+  TypeScript: 1549542
+  JavaScript: 653619
+  Python: 204128
   Astro: 65977
   CSS: 11373
   PowerShell: 11223
   Shell: 9544
   HTML: 705
-totalLine: 2397185
+totalBytes: 2506111
 recent:
   last30d:
     since: 2026-08-05
     release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last60d:
+    since: 2026-07-06
+    release: 1
     mergedPR: 0
     openPR: 0
     closedIssue: 0
@@ -61,3 +71,21 @@ recent:
     closedIssue: 0
     openIssue: 0
     commit: 0
+  last720d:
+    since: 2024-09-14
+    release: 8
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+total:
+  release: 8
+  mergedPR: 127
+  openPR: 189
+  closedIssue: 140
+  openIssue: 113
+  commit: 796
+---
+---
+
