@@ -7,13 +7,13 @@ about:
   head: 787da45
   archived: false
   latestVersion: v2.9.0
-  collectedAt: 2026-09-04T20:02:48Z
+  collectedAt: 2026-09-04T20:39:43Z
 timeline:
   created: 2026-03-15
   lastCommit: 2026-09-04
   lastRelease: 2026-07-10
 popularity:
-  star: 81483
+  star: 81486
   watcher: 251
   fork: 6851
   release: 8
@@ -87,5 +87,73 @@ total:
   openIssue: 113
   commit: 796
 ---
+path: /home/runner/.x-repo/github.com/Lum1104/Understand-Anything
+collectedAt: 2026-09-04T20:39:45Z
+loc:
+  TypeScript:
+    code: 31977
+    comments: 2636
+    blanks: 4321
+    files: 217
+  JavaScript:
+    code: 15382
+    comments: 1681
+    blanks: 1528
+    files: 38
+  Yaml:
+    code: 8535
+    comments: 0
+    blanks: 2243
+    files: 4
+  Tsx:
+    code: 7435
+    comments: 358
+    blanks: 686
+    files: 37
+  Json:
+    code: 7258
+    comments: 0
+    blanks: 2
+    files: 23
+  Python:
+    code: 3685
+    comments: 540
+    blanks: 693
+    files: 8
+  Css:
+    code: 379
+    comments: 35
+    blanks: 64
+    files: 2
+  Sh:
+    code: 266
+    comments: 26
+    blanks: 29
+    files: 1
+  PowerShell:
+    code: 234
+    comments: 23
+    blanks: 26
+    files: 1
+  Html:
+    code: 19
+    comments: 0
+    blanks: 0
+    files: 1
+  Svg:
+    code: 8
+    comments: 0
+    blanks: 0
+    files: 2
+  Markdown:
+    code: 0
+    comments: 17998
+    blanks: 7563
+    files: 117
+total:
+  code: 89205
+  comments: 24715
+  blanks: 18638
+  files: 451
 ---
 
