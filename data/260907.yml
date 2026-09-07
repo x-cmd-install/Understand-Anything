@@ -5,19 +5,19 @@ about:
   head: 07edf82
   archived: false
   latestVersion: "v2.9.0"
-  collectedAt: 2026-09-07T05:44:41Z
+  collectedAt: 2026-09-07T18:45:53Z
 timeline:
   created: 2026-03-15
   lastCommit: 2026-09-06
   lastRelease: 2026-07-10
 popularity:
-  star: 81691
+  star: 81744
   watcher: 253
-  fork: 6871
+  fork: 6878
   release: 8
   contributor: 54
-  pullRequest: 383
-  issue: 253
+  pullRequest: 384
+  issue: 254
 language:
   TypeScript: 1600281
   JavaScript: 761628
@@ -80,13 +80,13 @@ recent:
 total:
   release: 8
   mergedPR: 128
-  openPR: 189
+  openPR: 190
   closedIssue: 141
-  openIssue: 112
+  openIssue: 113
   commit: 838
 ---
 path: /home/runner/.x-repo/github.com/Lum1104/Understand-Anything
-collectedAt: 2026-09-07T05:44:54Z
+collectedAt: 2026-09-07T18:45:55Z
 loc:
   TypeScript:
     code: 32765
@@ -157,7 +157,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:45:05+00:00
+  collectedAt: 2026-09-07T18:45:56+00:00
   platform:
     darwin/arm64:
       name:  null
