@@ -2,20 +2,20 @@ about:
   description: "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more."
   license: MIT
   homepage: https://understand-anything.com/
-  head: 07edf82
+  head: 5feed1f
   archived: false
   latestVersion: "v2.9.0"
-  collectedAt: 2026-09-08T02:55:42Z
+  collectedAt: 2026-09-08T05:28:36Z
 timeline:
   created: 2026-03-15
-  lastCommit: 2026-09-06
+  lastCommit: 2026-09-08
   lastRelease: 2026-07-10
 popularity:
-  star: 81753
+  star: 81764
   watcher: 253
-  fork: 6879
+  fork: 6878
   release: 8
-  contributor: 54
+  contributor: 55
   pullRequest: 384
   issue: 254
 language:
@@ -25,9 +25,9 @@ language:
   Astro: 65977
   CSS: 11373
   PowerShell: 11223
-  Shell: 9544
+  Shell: 9549
   HTML: 705
-totalBytes: 2668908
+totalBytes: 2668913
 recent:
   last30d:
     since: 2026-08-09
@@ -79,14 +79,14 @@ recent:
     commit: 0
 total:
   release: 8
-  mergedPR: 128
-  openPR: 190
+  mergedPR: 129
+  openPR: 189
   closedIssue: 141
   openIssue: 113
-  commit: 838
+  commit: 840
 ---
 path: /home/runner/.x-repo/github.com/Lum1104/Understand-Anything
-collectedAt: 2026-09-08T02:55:44Z
+collectedAt: 2026-09-08T05:28:38Z
 loc:
   TypeScript:
     code: 32765
