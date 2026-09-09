@@ -7,7 +7,7 @@ Graphs that teach > graphs that impress. Turn any code into an interactive knowl
 - **Latest release**: `v2.9.0` (2026-07-10)
 - **Last commit**: 2026-09-08
 - **License**: MIT
-- **Stars**: 81845 · **Forks**: 6886 · **Open issues**: 254 · **Contributors**: 55
+- **Stars**: 81898 · **Forks**: 6889 · **Open issues**: 254 · **Contributors**: 55
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/Understand-Anything> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T05:42:07Z._
+_Last regenerated: 2026-09-09T20:20:53Z._
