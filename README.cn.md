@@ -4,13 +4,25 @@
 
 Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.
 
-![Understand-Anything](https://repo.x-cmd.io/Understand-Anything.svg)
+![Understand-Anything](https://repo.x-cmd.io/Understand-Anything.svg?lang=zh)
 
 ## 安装
 
 ```sh
 x install Understand-Anything
 ```
+
+## 代码洞察
+
+合计: **77,708** 行代码（覆盖前 5 种语言、共 **328** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| TypeScript | 32,765 | 2,678 | 4,344 | 222 |
+| JavaScript | 17,059 | 1,740 | 1,634 | 42 |
+| Yaml | 8,535 | 0 | 2,243 | 4 |
+| Tsx | 7,435 | 358 | 686 | 37 |
+| Json | 7,258 | 0 | 2 | 23 |
 
 ## 源代码
 
@@ -23,11 +35,10 @@ x install Understand-Anything
 - **最新版本**: `v2.9.0` (2026-07-10)
 - **最近提交**: 2026-09-08
 - **Release 含资产**: 1 个
-- **发布时间**: 2026-07-10T09:36:42Z
 
 ## 流行度
 
-- **Star**: 81,928 · **Fork**: 6,890 · **开放 issue**: 254 · **贡献者**: 55
+- **Star**: 81,998 · **Fork**: 6,895 · **开放 issue**: 254 · **贡献者**: 55
 
 ## 累计统计
 
@@ -38,20 +49,17 @@ x install Understand-Anything
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 90d | 2026-06-12 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-14 | 8 | 0 | 0 | 0 | 0 | 0 |
 | 360d | 2025-09-15 | 8 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-20 | 8 | 0 | 0 | 0 | 0 | 0 |
 
-## 代码规模
+## Release 资产
 
-合计: **77,708** 行代码（覆盖前 5 种语言、共 **328** 个文件）。
-
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| TypeScript | 32,765 | 2,678 | 4,344 | 222 |
-| JavaScript | 17,059 | 1,740 | 1,634 | 42 |
-| Yaml | 8,535 | 0 | 2,243 | 4 |
-| Tsx | 7,435 | 358 | 686 | 37 |
-| Json | 7,258 | 0 | 2 | 23 |
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [understand-anything-viewer.tgz](https://github.com/Lum1104/Understand-Anything/releases/download/v2.9.0/understand-anything-viewer.tgz) | 776.3 KiB | `native/unknown` |
 
 ## 改进这些数据
 
@@ -62,4 +70,4 @@ Understand-Anything 的安装元数据由 [x-cmd/install](https://github.com/x-c
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:50:11Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T23:48:58Z._
