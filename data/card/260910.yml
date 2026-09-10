@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.9.0"
   latestRelease: "v2.9.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T05:49:51Z
+  collectedAt: 2026-09-10T17:45:51Z
 timeline:
   created: 2026-03-15
   lastCommit: 2026-09-08
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 2026-07-10
   lastPrerelease: 
 popularity:
-  star: 81928
+  star: 81985
   watcher: 252
-  fork: 6890
+  fork: 6892
   release: 8
   contributor: 55
   pullRequest: 384
@@ -90,7 +90,7 @@ total:
   commit: 840
 ---
 path: /home/runner/.x-repo/github.com/Lum1104/Understand-Anything
-collectedAt: 2026-09-10T05:49:57Z
+collectedAt: 2026-09-10T17:45:55Z
 loc:
   TypeScript:
     code: 32765
