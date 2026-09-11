@@ -38,11 +38,11 @@ x install Understand-Anything
 
 ## 流行度
 
-- **Star**: 82,017 · **Fork**: 6,898 · **开放 issue**: 254 · **贡献者**: 56
+- **Star**: 82,060 · **Fork**: 6,898 · **开放 issue**: 255 · **贡献者**: 56
 
 ## 累计统计
 
-- **发布数**: 8 · **已合并 PR**: 131 · **开放 PR**: 189 · **已关闭 issue**: 142 · **开放 issue**: 112 · **提交数**: 844
+- **发布数**: 8 · **已合并 PR**: 131 · **开放 PR**: 190 · **已关闭 issue**: 142 · **开放 issue**: 113 · **提交数**: 844
 
 ## 最近活动
 
@@ -70,4 +70,4 @@ Understand-Anything 的安装元数据由 [x-cmd/install](https://github.com/x-c
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260911.yml` · 2026-09-11T05:43:25Z._
+_数据快照: `data/card/260911.yml` · 2026-09-11T19:15:27Z._

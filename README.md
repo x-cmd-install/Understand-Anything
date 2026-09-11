@@ -38,11 +38,11 @@ Total: **77,844** lines of code across **329** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 82,017 · **Forks**: 6,898 · **Open issues**: 254 · **Contributors**: 56
+- **Stars**: 82,060 · **Forks**: 6,898 · **Open issues**: 255 · **Contributors**: 56
 
 ## Totals (cumulative)
 
-- **Releases**: 8 · **Merged PRs**: 131 · **Open PRs**: 189 · **Closed issues**: 142 · **Open issues**: 112 · **Commits**: 844
+- **Releases**: 8 · **Merged PRs**: 131 · **Open PRs**: 190 · **Closed issues**: 142 · **Open issues**: 113 · **Commits**: 844
 
 ## Recent activity
 
@@ -70,4 +70,4 @@ Install metadata for Understand-Anything lives in the [x-cmd/install](https://gi
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T05:43:25Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T19:15:26Z._
