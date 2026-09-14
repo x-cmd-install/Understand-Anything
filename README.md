@@ -38,22 +38,22 @@ Total: **77,986** lines of code across **329** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 82,339 · **Forks**: 6,921 · **Open issues**: 255 · **Contributors**: 57
+- **Stars**: 82,595 · **Forks**: 6,952 · **Open issues**: 255 · **Contributors**: 57
 
 ## Totals (cumulative)
 
-- **Releases**: 8 · **Merged PRs**: 132 · **Open PRs**: 189 · **Closed issues**: 143 · **Open issues**: 112 · **Commits**: 846
+- **Releases**: 8 · **Merged PRs**: 132 · **Open PRs**: 190 · **Closed issues**: 143 · **Open issues**: 112 · **Commits**: 846
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-15 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-15 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-17 | 8 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-18 | 8 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-09-23 | 8 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-16 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-16 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-18 | 8 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-19 | 8 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-24 | 8 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -70,4 +70,4 @@ Install metadata for Understand-Anything lives in the [x-cmd/install](https://gi
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:45:17Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T06:04:03Z._
