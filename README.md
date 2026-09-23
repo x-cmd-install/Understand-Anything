@@ -4,7 +4,7 @@
 
 Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.
 
-[![x-cmd/install — Understand-Anything Code Quality Monitoring Repo Card](https://repo.x-cmd.io/Understand-Anything.svg)](https://x-cmd.com/install/Understand-Anything)
+[![x-cmd/install — Understand-Anything Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/Understand-Anything.svg)](https://x-cmd.com/install/Understand-Anything)
 
 ## Install
 
@@ -38,7 +38,7 @@ Total: **77,986** lines of code across **329** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 83,633 · **Forks**: 7,050 · **Open issues**: 256 · **Contributors**: 57
+- **Stars**: 83,780 · **Forks**: 7,061 · **Open issues**: 256 · **Contributors**: 57
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **77,986** lines of code across **329** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-24 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-26 | 7 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-27 | 8 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-02 | 8 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-24 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-25 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-27 | 7 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-28 | 8 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-03 | 8 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -70,4 +70,4 @@ Install metadata for Understand-Anything lives in the [x-cmd/install](https://gi
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:59:37Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:03:06Z._
