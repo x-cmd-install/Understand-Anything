@@ -32,34 +32,34 @@ Total: **81,438** lines of code across **344** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v2.9.0` (2026-07-10)
+- **Latest**: `v2.9.8` (2026-11-15)
 - **Last commit**: 2026-11-15
 - **Assets in release**: 1
 
 ## Popularity
 
-- **Stars**: 92,660 · **Forks**: 7,905 · **Open issues**: 279 · **Contributors**: 64
+- **Stars**: 92,770 · **Forks**: 7,913 · **Open issues**: 279 · **Contributors**: 64
 
 ## Totals (cumulative)
 
-- **Releases**: 8 · **Merged PRs**: 147 · **Open PRs**: 230 · **Closed issues**: 145 · **Open issues**: 134 · **Commits**: 899
+- **Releases**: 9 · **Merged PRs**: 147 · **Open PRs**: 230 · **Closed issues**: 145 · **Open issues**: 134 · **Commits**: 899
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-16 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-17 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-19 | 2 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-20 | 8 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-25 | 8 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-17 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-17 | 1 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-18 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-20 | 2 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-21 | 9 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-26 | 9 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [understand-anything-viewer.tgz](https://github.com/Lum1104/Understand-Anything/releases/download/v2.9.0/understand-anything-viewer.tgz) | 776.3 KiB | `native/unknown` |
+| [understand-anything-viewer.tgz](https://github.com/Lum1104/Understand-Anything/releases/download/v2.9.8/understand-anything-viewer.tgz) | 788.8 KiB | `native/unknown` |
 
 ## Improve this data
 
@@ -70,4 +70,4 @@ Install metadata for Understand-Anything lives in the [x-cmd/install](https://gi
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T07:39:11Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T07:59:26Z._
