@@ -14,14 +14,14 @@ x install Understand-Anything
 
 ## Code insight
 
-Total: **81,919** lines of code across **344** files in the top 5 languages.
+Total: **82,152** lines of code across **345** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 34,030 | 2,751 | 4,422 | 227 |
+| TypeScript | 34,251 | 2,751 | 4,440 | 228 |
 | JavaScript | 18,564 | 1,922 | 1,808 | 52 |
 | Yaml | 9,615 | 0 | 2,568 | 4 |
-| Tsx | 7,613 | 397 | 698 | 37 |
+| Tsx | 7,625 | 397 | 698 | 37 |
 | Json | 7,287 | 0 | 2 | 24 |
 
 ## Source
@@ -33,27 +33,27 @@ Total: **81,919** lines of code across **344** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.9.8` (2026-11-15)
-- **Last commit**: 2026-11-23
+- **Last commit**: 2026-11-24
 - **Assets in release**: 1
 
 ## Popularity
 
-- **Stars**: 93,735 · **Forks**: 7,972 · **Open issues**: 285 · **Contributors**: 66
+- **Stars**: 93,938 · **Forks**: 7,979 · **Open issues**: 289 · **Contributors**: 65
 
 ## Totals (cumulative)
 
-- **Releases**: 9 · **Merged PRs**: 152 · **Open PRs**: 238 · **Closed issues**: 147 · **Open issues**: 138 · **Commits**: 912
+- **Releases**: 9 · **Merged PRs**: 151 · **Open PRs**: 237 · **Closed issues**: 150 · **Open issues**: 139 · **Commits**: 916
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-24 | 1 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-25 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-27 | 2 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-28 | 9 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-12-03 | 9 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-25 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-25 | 1 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-26 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-28 | 2 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-29 | 9 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-12-04 | 9 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -70,4 +70,4 @@ Install metadata for Understand-Anything lives in the [x-cmd/install](https://gi
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T10:17:47Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T11:31:06Z._
