@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 807775,
       "digest": "sha256:37393fc364e7c71b13ea657b9b2bca91c8232474dd7e6efb9f627e72a87ef65c",
-      "download_count": 5438,
+      "download_count": 5729,
       "created_at": "2026-11-15T12:10:28Z",
       "updated_at": "2026-11-15T12:10:29Z",
       "browser_download_url": "https://github.com/Egonex-AI/Understand-Anything/releases/download/v2.9.8/understand-anything-viewer.tgz"

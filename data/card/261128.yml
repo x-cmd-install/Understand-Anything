@@ -1,0 +1,162 @@
+about:
+  description: "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more."
+  license: MIT
+  homepage: https://understand-anything.com/
+  head: b232f35
+  archived: false
+  latestVersion: "v2.9.8"
+  latestRelease: "v2.9.8"
+  latestPrerelease: ""
+  collectedAt: 2026-11-28T09:11:25Z
+timeline:
+  created: 2026-03-15
+  lastCommit: 2026-11-25
+  lastVersion: 2026-11-15
+  lastRelease: 2026-11-15
+  lastPrerelease: 
+popularity:
+  star: 94764
+  watcher: 298
+  fork: 8067
+  release: 9
+  contributor: 65
+  pullRequest: 476
+  issue: 292
+language:
+  TypeScript: 1669711
+  JavaScript: 832399
+  Python: 219794
+  Astro: 66403
+  PowerShell: 11628
+  CSS: 11373
+  Shell: 9879
+  HTML: 705
+totalBytes: 2821892
+recent:
+  last30d:
+    since: 2026-10-29
+    release: 1
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last60d:
+    since: 2026-09-29
+    release: 1
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last90d:
+    since: 2026-08-30
+    release: 1
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last180d:
+    since: 2026-06-01
+    release: 2
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last360d:
+    since: 2025-12-03
+    release: 9
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last720d:
+    since: 2024-12-08
+    release: 9
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+total:
+  release: 9
+  mergedPR: 152
+  openPR: 242
+  closedIssue: 151
+  openIssue: 141
+  commit: 918
+---
+path: /home/runner/.x-repo/github.com/Lum1104/Understand-Anything
+collectedAt: 2026-11-28T09:11:27Z
+loc:
+  TypeScript:
+    code: 34251
+    comments: 2751
+    blanks: 4440
+    files: 228
+  JavaScript:
+    code: 18564
+    comments: 1922
+    blanks: 1808
+    files: 52
+  Yaml:
+    code: 9615
+    comments: 0
+    blanks: 2568
+    files: 4
+  Tsx:
+    code: 7625
+    comments: 397
+    blanks: 698
+    files: 37
+  Json:
+    code: 7287
+    comments: 0
+    blanks: 2
+    files: 24
+  Python:
+    code: 3969
+    comments: 562
+    blanks: 727
+    files: 8
+  Css:
+    code: 379
+    comments: 35
+    blanks: 64
+    files: 2
+  Sh:
+    code: 272
+    comments: 26
+    blanks: 29
+    files: 1
+  PowerShell:
+    code: 240
+    comments: 23
+    blanks: 26
+    files: 1
+  Html:
+    code: 19
+    comments: 0
+    blanks: 0
+    files: 1
+  Svg:
+    code: 8
+    comments: 0
+    blanks: 0
+    files: 2
+  Markdown:
+    code: 0
+    comments: 18786
+    blanks: 7896
+    files: 124
+total:
+  code: 96407
+  comments: 25936
+  blanks: 19751
+  files: 484
+---
+
+---
